@@ -1,0 +1,7 @@
+pillow~=10.4.0
+pip~=23.2.1
+Django~=5.0.7
+asgiref~=3.8.1
+sqlparse~=0.5.1
+psycopg2~=2.9.9
+tablib~=3.5.0
